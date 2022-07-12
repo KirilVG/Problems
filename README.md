@@ -1,2 +1,1 @@
-# Problems
-A repo for problem solutions
+this repo is for solutions
