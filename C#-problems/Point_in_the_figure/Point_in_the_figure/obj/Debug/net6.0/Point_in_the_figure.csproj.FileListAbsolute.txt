@@ -1,0 +1,15 @@
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\Point_in_the_figure\Point_in_the_figure\bin\Debug\net6.0\Point_in_the_figure.exe
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\Point_in_the_figure\Point_in_the_figure\bin\Debug\net6.0\Point_in_the_figure.deps.json
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\Point_in_the_figure\Point_in_the_figure\bin\Debug\net6.0\Point_in_the_figure.runtimeconfig.json
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\Point_in_the_figure\Point_in_the_figure\bin\Debug\net6.0\Point_in_the_figure.dll
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\Point_in_the_figure\Point_in_the_figure\bin\Debug\net6.0\Point_in_the_figure.pdb
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\Point_in_the_figure\Point_in_the_figure\obj\Debug\net6.0\Point_in_the_figure.csproj.AssemblyReference.cache
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\Point_in_the_figure\Point_in_the_figure\obj\Debug\net6.0\Point_in_the_figure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\Point_in_the_figure\Point_in_the_figure\obj\Debug\net6.0\Point_in_the_figure.AssemblyInfoInputs.cache
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\Point_in_the_figure\Point_in_the_figure\obj\Debug\net6.0\Point_in_the_figure.AssemblyInfo.cs
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\Point_in_the_figure\Point_in_the_figure\obj\Debug\net6.0\Point_in_the_figure.csproj.CoreCompileInputs.cache
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\Point_in_the_figure\Point_in_the_figure\obj\Debug\net6.0\Point_in_the_figure.dll
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\Point_in_the_figure\Point_in_the_figure\obj\Debug\net6.0\refint\Point_in_the_figure.dll
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\Point_in_the_figure\Point_in_the_figure\obj\Debug\net6.0\Point_in_the_figure.pdb
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\Point_in_the_figure\Point_in_the_figure\obj\Debug\net6.0\Point_in_the_figure.genruntimeconfig.cache
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\Point_in_the_figure\Point_in_the_figure\obj\Debug\net6.0\ref\Point_in_the_figure.dll
