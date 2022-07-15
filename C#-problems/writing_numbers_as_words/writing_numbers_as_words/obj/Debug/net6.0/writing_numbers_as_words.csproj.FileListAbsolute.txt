@@ -1,0 +1,15 @@
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\writing_numbers_as_words\writing_numbers_as_words\bin\Debug\net6.0\writing_numbers_as_words.exe
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\writing_numbers_as_words\writing_numbers_as_words\bin\Debug\net6.0\writing_numbers_as_words.deps.json
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\writing_numbers_as_words\writing_numbers_as_words\bin\Debug\net6.0\writing_numbers_as_words.runtimeconfig.json
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\writing_numbers_as_words\writing_numbers_as_words\bin\Debug\net6.0\writing_numbers_as_words.dll
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\writing_numbers_as_words\writing_numbers_as_words\bin\Debug\net6.0\writing_numbers_as_words.pdb
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\writing_numbers_as_words\writing_numbers_as_words\obj\Debug\net6.0\writing_numbers_as_words.csproj.AssemblyReference.cache
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\writing_numbers_as_words\writing_numbers_as_words\obj\Debug\net6.0\writing_numbers_as_words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\writing_numbers_as_words\writing_numbers_as_words\obj\Debug\net6.0\writing_numbers_as_words.AssemblyInfoInputs.cache
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\writing_numbers_as_words\writing_numbers_as_words\obj\Debug\net6.0\writing_numbers_as_words.AssemblyInfo.cs
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\writing_numbers_as_words\writing_numbers_as_words\obj\Debug\net6.0\writing_numbers_as_words.csproj.CoreCompileInputs.cache
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\writing_numbers_as_words\writing_numbers_as_words\obj\Debug\net6.0\writing_numbers_as_words.dll
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\writing_numbers_as_words\writing_numbers_as_words\obj\Debug\net6.0\refint\writing_numbers_as_words.dll
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\writing_numbers_as_words\writing_numbers_as_words\obj\Debug\net6.0\writing_numbers_as_words.pdb
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\writing_numbers_as_words\writing_numbers_as_words\obj\Debug\net6.0\writing_numbers_as_words.genruntimeconfig.cache
+C:\Users\kiril.gradinarov.GRAFIXOFT\Desktop\Problems\C#-problems\writing_numbers_as_words\writing_numbers_as_words\obj\Debug\net6.0\ref\writing_numbers_as_words.dll
